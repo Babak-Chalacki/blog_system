@@ -1,6 +1,6 @@
 <?php
 session_start();
-// include "model/databas.php"; عدم اتصال 
+// include "model/database.php"; عدم اتصال 
 $connection = new mysqli("localhost", "root", "", "blog");
 
 if ($connection->connect_error) {
