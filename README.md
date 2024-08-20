@@ -7,7 +7,7 @@ Welcome to the PHP Blog System! This project is a fully functional blog platform
 - **User Authentication**: Secure registration and login system.
 - **MVC Architecture**: Clean separation of concerns for better maintainability.
 - **Dynamic Routing**: User-friendly URL routing for easy navigation.
-- **Admin Panel**: Manage posts, comments, and users effectively.
+- **Admin Panel**: Manage posts,categories, and users effectively.
 - **Responsive Design**: Mobile-friendly interface for a seamless user experience.
 
 ### Technologies Used
