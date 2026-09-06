@@ -2,7 +2,7 @@
     "name": "babak/blog_system",
     "autoload": {
         "psr-4": {
-            "Babak\\BlogSystem\\": "src/"
+            "Src\\": "src/"
         }
     },
     "authors": [
